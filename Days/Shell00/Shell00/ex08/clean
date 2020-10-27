@@ -1,0 +1,1 @@
+find . -type f  -name \#*\# -print -exec rm {} + -or -name '*~' -print -exec rm {} +

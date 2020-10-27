@@ -1,0 +1,6 @@
+Credentials cache: API:C6DC2B22-688E-4742-9A24-E3737FE0F318
+        Principal: agiraude@42.FR
+
+  Issued                Expires               Principal
+Oct 12 15:02:17 2020  Oct 19 15:02:17 2020  krbtgt/42.FR@42.FR
+Oct 12 15:02:18 2020  Oct 19 15:02:17 2020  HTTP/student-storage-2.42.fr@42.FR
